@@ -23,14 +23,16 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
 
   - title: "Competitions"
     url: /competitions/
   
   - title: "Selected Projects"
     url: /projects/
+
+  - title: "CV"
+    url: /cv/
   
   - title: "Archery"
     url: /archery/
