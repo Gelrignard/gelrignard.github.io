@@ -10,10 +10,10 @@ redirect_from:
 ## About Me
 
 
-My research interest broadly includes human-robot interaction & collaboration, planning & navigation, and soft robotics, etc. I want to devote myself to build *safe* and *helpful* robotic systems for the goods of massive *workers* and *patients*.
+My research interests broadly include human-robot interaction & collaboration, planning & navigation, and soft robotics. I am driven by the goal of creating *safe* and *helpful* robotic systems for the benefit of *workers* and *patients*.
 
 <div style="color: red; font-weight: bold; font-size: 1.1em; margin-top: 2em;">
-I'm looking for a PhD opportunity starting from fall 2026. If you are interested, don't hesistate to contact me!
+I am actively seeking a PhD opportunity starting in Fall 2026. If my work aligns with your interests, please do not hesitate to contact me!
 </div>
 
 ## Education
