@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Enlin Gu"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,12 @@ redirect_from:
 
 ## About Me
 
+
+My research interest broadly includes human-robot interaction & collaboration, planning & navigation, and soft robotics, etc. I want to devote myself to build *safe* and *helpful* robotic systems for the goods of massive *workers* and *patients*.
+
+<div style="color: red; font-weight: bold; font-size: 1.1em; margin-top: 2em;">
+I'm looking for a PhD opportunity starting from fall 2026. If you are interested, don't hesistate to contact me!
+</div>
 
 ## Education
 
@@ -27,7 +33,3 @@ Sept 2020 – May 2024  GPA: 3.6/4.0
 - Toyota Boshoku Scholarship, 2021
 - Changjiang-Siyuan Kechuang Scholarship (Changjiang-Siyuan Scholarship for Scientific Innovation), 2022
 - Outstanding Bachelor’s Graduate of SJTU, 2024
-
-## Field of Interests
-
-I am interested in human-robot interaction & collaboration, planning & navigation, and soft robotics.
