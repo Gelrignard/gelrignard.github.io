@@ -23,7 +23,7 @@ repository               : "Gelrignard/gelrignard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.jpg"
   name             : "Enlin Gu"
   pronouns         : "he/him"
   bio              : "Dual Degree Master's Student in Robotics & Computer and Information Science"
