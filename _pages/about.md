@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+<!-- ## About Me -->
 
 
-My research interests broadly include human-robot interaction & collaboration, planning & navigation, and soft robotics. I am driven by the goal of creating *safe* and *helpful* robotic systems for the benefit of *workers* and *patients*.
+My research interests broadly include human-robot interaction & collaboration, planning & navigation, and soft robotics. I am driven by the goal of creating **safe** and **helpful** robotic systems for the benefit of *workers* and *patients*.
 
 <div style="color: red; font-weight: bold; font-size: 1.1em; margin-top: 2em;">
 I am actively seeking a PhD opportunity starting in Fall 2026. If my work aligns with your interests, please do not hesitate to contact me!
