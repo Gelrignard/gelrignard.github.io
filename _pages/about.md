@@ -11,7 +11,7 @@ Hello there! I am a Master in Robotics and CIS at the University of Pennsylvania
 
 My research interests broadly include human-robot interaction & collaboration, planning & navigation, and soft robotics. I am driven by the goal of creating **safe** and **helpful** robotic systems for the benefit of *workers* and *patients*.
 
-<div style="background: yellow; font-weight: bold; font-size: 1.1em; margin-top: 2em;">
+<div style="background: yellow; color: #222; font-weight: bold; font-size: 1.1em; margin-top: 2em;">
 I am actively seeking a PhD opportunity starting in Fall 2026. If my work aligns with your interests, please do not hesitate to contact me!
 </div>
 
