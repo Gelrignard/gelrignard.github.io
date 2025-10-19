@@ -27,8 +27,8 @@ Sept 2020 – May 2024  GPA: 3.6/4.0
 
 ## Honors and Rewards
 
-- National Undergraduate Mechanical Innovational Design Competition, 2022  First Prize (Top 10 in China) [<a href="https://mp.weixin.qq.com/s/geIgz6VzAoUXodHZOrdXmQ" style="color: #1a0dab; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
-- International Genetically Engineered Machine Competition (iGEM), 2022  Gold Medal [<a href="https://mp.weixin.qq.com/s/Nppf3-aUx5WBvEkinaOKRg" style="color: #1a0dab; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
+- National Undergraduate Mechanical Innovational Design Competition, 2022  First Prize (Top 10 in China) [<a href="https://mp.weixin.qq.com/s/geIgz6VzAoUXodHZOrdXmQ" style="color: #339CFF; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
+- International Genetically Engineered Machine Competition (iGEM), 2022  Gold Medal [<a href="https://mp.weixin.qq.com/s/Nppf3-aUx5WBvEkinaOKRg" style="color: #339CFF; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
 - Toyota Boshoku Scholarship, 2021
-- Changjiang-Siyuan Kechuang Scholarship (Changjiang-Siyuan Scholarship for Scientific Innovation), 2022 [<a href="https://mp.weixin.qq.com/s/QOfbLO4UIn3eJUXqgtaX-g" style="color: #1a0dab; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
+- Changjiang-Siyuan Kechuang Scholarship (Changjiang-Siyuan Scholarship for Scientific Innovation), 2022 [<a href="https://mp.weixin.qq.com/s/QOfbLO4UIn3eJUXqgtaX-g" style="color: #339CFF; font-size: 0.9em; text-decoration: underline;">SJTU News Spotlight</a>]
 - Outstanding Bachelor’s Graduate of SJTU, 2024
