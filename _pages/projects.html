@@ -9,15 +9,19 @@ author_profile: true
   .projects-container { display: flex; }
   .projects-main { flex: 3; }
   .projects-toc { flex: 1; margin-left: 2em; }
-  .collapsible { cursor: pointer; font-weight: bold; margin-top: 1em; }
-  .content { display: none; margin-top: 0.5em; }
+  .collapsible { cursor: pointer; font-weight: bold; margin-top: 1em; display: flex; align-items: center; }
+  .arrow { transition: transform 0.2s; margin-right: 0.5em; transform: rotate(90deg); }
+  .content { display: block; margin-top: 0.5em; }
+  .collapsible.collapsed .arrow { transform: rotate(0deg); }
 </style>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.collapsible').forEach(function(btn) {
       btn.addEventListener('click', function() {
         var content = btn.nextElementSibling;
-        content.style.display = content.style.display === "block" ? "none" : "block";
+        var expanded = content.style.display === "block";
+        content.style.display = expanded ? "none" : "block";
+        btn.classList.toggle('collapsed', expanded);
       });
     });
   });
@@ -26,19 +30,19 @@ author_profile: true
 <div class="projects-container">
   <div class="projects-main">
     <div id="robotics">
-      <div class="collapsible">Robotics Projects</div>
+      <div class="collapsible"><span class="arrow">&#9654;</span>Robotics Projects</div>
       <div class="content">
        {% include robo_ms.html %}
       </div>
     </div>
     <div id="cs">
-      <div class="collapsible">Computer Science Projects</div>
+      <div class="collapsible"><span class="arrow">&#9654;</span>Computer Science Projects</div>
       <div class="content">
         {% include cs_ms.html %}
       </div>
     </div>
     <div id="mech">
-      <div class="collapsible">Mechanical Design and Mechanics Projects</div>
+      <div class="collapsible"><span class="arrow">&#9654;</span>Mechanical Design and Mechanics Projects</div>
       <div class="content">
         {% include me_bach.html %}
       </div>
