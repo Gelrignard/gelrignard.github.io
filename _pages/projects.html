@@ -17,15 +17,16 @@ author_profile: true
     border-radius: 12px;
     padding: 1.2em 1em 1em 1em;
     margin-bottom: 2em;
-    background: #f5f5f5;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-    border: 1px solid #e0e0e0;
+    background: transparent; /* No background in light mode */
+    box-shadow: none;        /* Remove shadow in light mode */
+    border: 1.5px solid #e0e0e0; /* Subtle border */
     transition: background 0.3s;
   }
   @media (prefers-color-scheme: dark) {
     .project-section {
       background: #23272e;
-      border: 1px solid #333;
+      border: 1.5px solid #333;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
     }
   }
 </style>
