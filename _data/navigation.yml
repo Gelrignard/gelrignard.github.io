@@ -37,8 +37,8 @@ main:
   - title: "Experience"
     url: /experience/
   
-  # - title: "Archery"
-  #   url: /archery/
+  - title: "Archery"
+    url: /archery/
     
   # - title: "CV"
   #   url: /cv-json/
