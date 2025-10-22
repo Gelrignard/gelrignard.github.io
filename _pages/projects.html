@@ -13,21 +13,13 @@ author_profile: true
   .arrow { transition: transform 0.2s; margin-right: 0.5em; transform: rotate(90deg); }
   .content { display: block; margin-top: 0.5em; }
   .collapsible.collapsed .arrow { transform: rotate(0deg); }
-  .project-section {
+  .project-block {
+    border: 2px solid #e0e0e0;
     border-radius: 12px;
     padding: 1.2em 1em 1em 1em;
-    margin-bottom: 2em;
-    background: transparent; /* No background in light mode */
-    box-shadow: none;        /* Remove shadow in light mode */
-    border: 1.5px solid #e0e0e0; /* Subtle border */
-    transition: background 0.3s;
-  }
-  @media (prefers-color-scheme: dark) {
-    .project-section {
-      background: #23272e;
-      border: 1.5px solid #333;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-    }
+    margin-bottom: 1.5em;
+    background: #fafbfc;
+    box-shadow: 0 2px 8px 0 rgba(60,60,60,0.04);
   }
 </style>
 <script>
@@ -43,33 +35,23 @@ author_profile: true
   });
 </script>
 
-<div class="projects-container">
-  <div class="projects-main">
-    <div id="robotics" class="project-section">
-      <div class="collapsible"><span class="arrow">&#9654;</span>Robotics Projects</div>
-      <div class="content">
-       {% include robo_ms.html %}
-      </div>
-    </div>
-    <div id="cs" class="project-section">
-      <div class="collapsible"><span class="arrow">&#9654;</span>Computer Science Projects</div>
-      <div class="content">
-        {% include cs_ms.html %}
-      </div>
-    </div>
-    <div id="mech" class="project-section">
-      <div class="collapsible"><span class="arrow">&#9654;</span>Mechanical Design and Mechanics Projects</div>
-      <div class="content">
-        {% include me_bach.html %}
-      </div>
+<div class="projects-main">
+  <div id="robotics" class="project-block">
+    <div class="collapsible"><span class="arrow">&#9654;</span>Robotics Projects</div>
+    <div class="content">
+     {% include robo_ms.html %}
     </div>
   </div>
-  <div class="projects-toc">
-    <h3>Contents</h3>
-    <ul>
-      <li><a href="#robotics" style="color: #339CFF;">Robotics Projects</a></li>
-      <li><a href="#cs" style="color: #339CFF;">Computer Science Projects</a></li>
-      <li><a href="#mech" style="color: #339CFF;">Mechanical Design and Mechanics Projects</a></li>
-    </ul>
+  <div id="cs" class="project-block">
+    <div class="collapsible"><span class="arrow">&#9654;</span>Computer Science Projects</div>
+    <div class="content">
+      {% include cs_ms.html %}
+    </div>
+  </div>
+  <div id="mech" class="project-block">
+    <div class="collapsible"><span class="arrow">&#9654;</span>Mechanical Design and Mechanics Projects</div>
+    <div class="content">
+      {% include me_bach.html %}
+    </div>
   </div>
 </div>
