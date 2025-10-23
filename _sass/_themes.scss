@@ -109,5 +109,12 @@ $xing-color                 : #006567;
     background: #fff !important;
     color: #222 !important;
   }
-  // Add more overrides as needed for links, cards, etc.
+  .masthead, .site-nav, .site-header, .navbar, header {
+    background: #fff !important;
+    color: #222 !important;
+    border-color: #e0e0e0 !important;
+  }
+  .site-title, .site-nav a, .site-title a {
+    color: #222 !important;
+  }
 }
