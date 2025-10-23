@@ -12,8 +12,9 @@
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    // "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    // "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "theme/default_light",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -41,8 +42,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-.masthead, .site-header, .site-nav, .navbar, header {
-  background: #fff !important;
-  color: #222 !important;
-}
