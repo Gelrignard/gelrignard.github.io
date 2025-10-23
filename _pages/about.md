@@ -23,7 +23,7 @@ Sept 2023 – May 2026 (expected)  GPA: 3.9/4.0
 
 **Shanghai Jiao Tong University**  
 *Bachelor in Mechanical Engineering*  
-Sept 2020 – May 2024  GPA: 3.6/4.0
+Sept 2020 – June 2024  GPA: 3.6/4.0
 
 ## Honors and Rewards
 
