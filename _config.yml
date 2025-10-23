@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "myprofile.jpg"
   name             : "Enlin Gu"
-  pronouns         : "he/him"
+  # pronouns         : "he/him"
   bio              : "Dual Degree Master's Student in Robotics & Computer and Information Science"
   location         : "Philadelphia, PA, 19104, USA"
   employer         : "the University of Pennsylvania"
