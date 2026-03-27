@@ -8,12 +8,14 @@ redirect_from:
 ---
 <!-- ## About Me -->
 Hello there! I am an incoming PhD student in <u><a href="https://wp.nyu.edu/adol/">Applied Dynamics and Optimization Laboratory</a></u> at <u><a href="https://robotics.engineering.nyu.edu/">Center for Robotics and Embodied Intelligence</a></u>, New York University, advised by Professor <u><a href="https://engineering.nyu.edu/faculty/joo-h-kim">Joo H. Kim</a></u>.
-
 I am currently pursuing my Master in Robotics and CIS at the University of Pennsylvania <u><a href="https://www.grasp.upenn.edu/">GRASP Lab</a></u>, where I am fortunate to be supervised by <u><a href="https://www.seas.upenn.edu/~rahulm/">Prof. Rahul Mangharam</a></u> and <u><a href="https://haiminhu.org/">Prof. Haimin Hu</a></u> at <u><a href="https://xlab.upenn.edu/members/">Safe Autonomous Systems Lab</a></u>. Previously, I obtained my Bachelor's degree in 2024 from Shanghai Jiao Tong University, where I worked closely with <u><a href="https://me.sjtu.edu.cn/en/FullTimeTeacher/chengenliang.html">Prof. Genliang Chen</a></u> and <u><a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></u>.
-
 My research interests broadly include human-robot interaction & collaboration, biomechanics, planning & navigation, and soft robotics. I am driven by the goal of creating **safe** and **helpful** robotic systems for the benefit of *workers* and *patients*.
 
 ## Education
+
+**New York University**  
+*PhD Student in Mechanical Engineering*  
+Aug 2026 (expected) -
 
 **University of Pennsylvania**  
 *Master in Robotics & Master in Computer and Information Science (dual degree)*  
