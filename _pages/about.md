@@ -14,19 +14,9 @@ I am currently pursuing my Master in Robotics and CIS at the University of Penns
 My research interests broadly include human-robot interaction & collaboration, biomechanics, planning & navigation, and soft robotics. I am driven by the goal of creating **safe** and **helpful** robotic systems for the benefit of *workers* and *patients*.
 
 ## Education
-<!-- **New York University**  
-*PhD Student in Mechanical Engineering*  
-Aug 2026 (expected) -
-
-**University of Pennsylvania**  
-*Master in Robotics & Master in Computer and Information Science (dual degree)*  
-Aug 2023 – May 2026 (expected)  GPA: 3.8/4.0
-
-**Shanghai Jiao Tong University**  
-*Bachelor in Mechanical Engineering*  
-Sept 2020 – June 2024  GPA: 3.6/4.0 -->
-
-<div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:14px;"> <img src="/images/schoolbadge/NYU_Short_RGB_Color.png" alt="NYU badge" width="56" style="border-radius:8px;"> <div> <strong>New York University</strong><br> <em>PhD Student in Mechanical Engineering</em><br> Aug 2026 (expected) - </div> </div> <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:14px;"> <img src="/images/schoolbadge/UniversityofPennsylvania_FullLogo_RGB.png" alt="UPenn badge" width="56" style="border-radius:8px;"> <div> <strong>University of Pennsylvania</strong><br> <em>Master in Robotics & Master in Computer and Information Science (dual degree)</em><br> Aug 2023 – May 2026 (expected) GPA: 3.8/4.0 </div> </div> <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:14px;"> <img src="/images/schoolbadge/SJTU_ch_en_color.png" alt="SJTU badge" width="56" style="border-radius:8px;"> <div> <strong>Shanghai Jiao Tong University</strong><br> <em>Bachelor in Mechanical Engineering</em><br> Sept 2020 – June 2024 GPA: 3.6/4.0 </div> </div>
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:20px;"> <img src="/images/schoolbadge/NYU_Short_RGB_Color.png" alt="NYU badge" width="100" style="flex-shrink:0; border-radius:8px;"> <div> <strong>New York University</strong><br> <em>PhD Student in Mechanical Engineering</em><br> Aug 2026 (expected) - </div> </div>
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:20px;"> <img src="/images/schoolbadge/UniversityofPennsylvania_FullLogo_RGB.png" alt="UPenn badge" width="100" style="flex-shrink:0; border-radius:8px;"> <div> <strong>University of Pennsylvania</strong><br> <em>Master in Robotics & Master in Computer and Information Science (dual degree)</em><br> Aug 2023 – May 2026 (expected) GPA: 3.8/4.0 </div> </div>
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:20px;"> <img src="/images/schoolbadge/SJTU_ch_en_color.png" alt="SJTU badge" width="100" style="flex-shrink:0; border-radius:8px;"> <div> <strong>Shanghai Jiao Tong University</strong><br> <em>Bachelor in Mechanical Engineering</em><br> Sept 2020 – June 2024 GPA: 3.6/4.0 </div> </div>
 
 ## Honors and Rewards
 
